@@ -1,5 +1,5 @@
 # VishwaSamvad
-  This project is made in Unity 2013.4.6f1 using URP 7.3.1
+  This project is made in Unity 2019.4.6f1 using URP 7.3.1
 ## Adding Video
  - In `Assest/Prefabs` folder, ther's a prefab named **VideoMarker1**
  - Use that prefab if you want to add a videoplayer on any marker
