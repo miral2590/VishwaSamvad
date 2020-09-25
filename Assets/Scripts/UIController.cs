@@ -7,11 +7,11 @@ public class UIController : MonoBehaviour
 {
     public TMP_Text[] quoteTexts;
     Animator[] quoteTextAnimators;
-    public GetCurrentTrackable trackable;
-    public GameObject sponsorDetails, dandiAnimation, dialogBox, arCam, cam, backArrow, closeButton;
+    //public GetCurrentTrackable trackable;
+    //public GameObject sponsorDetails, dandiAnimation, dialogBox, arCam, cam, backArrow, closeButton;
     //public ClickActionController clickActionController;
     GameObject bgText;
-    public Material material;
+    //public Material material;
 
     public static string[] Quotes = { "An eye for eye only ends up making the whole world blind.",
                         "Where there is love there is life.",
@@ -94,7 +94,7 @@ public class UIController : MonoBehaviour
        
     }
 
-    public void IMG1()
+    /*public void IMG1()
     {
         material.SetTexture("_MainTex", Resources.Load("360IMG-1") as Texture);
     }
@@ -133,5 +133,5 @@ public class UIController : MonoBehaviour
     {
         closeButton.SetActive(false);
         dialogBox.SetActive(false);
-    }
+    }*/
 }

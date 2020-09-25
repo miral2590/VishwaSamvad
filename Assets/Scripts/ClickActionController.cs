@@ -5,7 +5,7 @@ using UnityEngine;
 public class ClickActionController : MonoBehaviour
 {
     UnityEngine.Video.VideoPlayer vp;
-    public GameObject dialogBox, closeButton;
+    //public GameObject dialogBox, closeButton;
     GameObject playButton, pauseButton;
     string hitTag;
     
@@ -50,7 +50,7 @@ public class ClickActionController : MonoBehaviour
                             playButton.SetActive(false);
                         }
                     }
-                    else if(hitTag.Equals("Billboard"))
+                    /*else if(hitTag.Equals("Billboard"))
                     {
                         Debug.Log(hitTag);
                         dialogBox.SetActive(true);
@@ -70,22 +70,22 @@ public class ClickActionController : MonoBehaviour
                     {
                         Application.OpenURL("https://goo.gl/maps/TCmar384r6xcbVKp9");
                     }
-                    //else if(hit.transform.gameObject.tag.Equals("PlayButton"))
-                    //{
-                    //   vp = hit.transform.gameObject.GetComponentInParent<UnityEngine.Video.VideoPlayer>();
-                    //    if (vp.isPlaying)
-                    //    {
-                    //        vp.Pause();
-                    //        pauseButton.SetActive(true);
-                    //        playButton.SetActive(false);
-                    //    }
-                    //    else
-                    //    {
-                    //        vp.Play();
-                    //        pauseButton.SetActive(false);
-                    //        playButton.SetActive(false);
-                    //    }
-                    //}
+                    else if(hit.transform.gameObject.tag.Equals("PlayButton"))
+                    {
+                       vp = hit.transform.gameObject.GetComponentInParent<UnityEngine.Video.VideoPlayer>();
+                        if (vp.isPlaying)
+                        {
+                            vp.Pause();
+                            pauseButton.SetActive(true);
+                            playButton.SetActive(false);
+                        }
+                        else
+                        {
+                            vp.Play();
+                            pauseButton.SetActive(false);
+                            playButton.SetActive(false);
+                        }
+                    }*/
 
 
                 }

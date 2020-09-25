@@ -36,7 +36,7 @@ public class SceneChanger : MonoBehaviour
         loadingGif.Play("GandhijiLoading");
         quoteText.text = UIController.Quotes[Random.Range(0,19)];
         yield return new WaitForSeconds(1f);
-        AsyncOperation operation = SceneManager.LoadSceneAsync("SampleScene");
+        AsyncOperation operation = SceneManager.LoadSceneAsync("ARScene");
         while (!operation.isDone)
         {
             yield return null;
