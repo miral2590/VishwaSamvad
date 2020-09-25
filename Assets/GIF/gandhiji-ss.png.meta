@@ -1,0 +1,1940 @@
+fileFormatVersion: 2
+guid: 499168ad8d87dec47aa54861b7ae7c81
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8563033788403203534
+    second: gandhiji-ss_0
+  - first:
+      213: 5709355383636717556
+    second: gandhiji-ss_1
+  - first:
+      213: 8070721771606356838
+    second: gandhiji-ss_2
+  - first:
+      213: -2227901713928384775
+    second: gandhiji-ss_3
+  - first:
+      213: -6543187645366298323
+    second: gandhiji-ss_4
+  - first:
+      213: 4222365917795389050
+    second: gandhiji-ss_5
+  - first:
+      213: 2048618887533959739
+    second: gandhiji-ss_6
+  - first:
+      213: 2842980730525574763
+    second: gandhiji-ss_7
+  - first:
+      213: -1535924783335054510
+    second: gandhiji-ss_8
+  - first:
+      213: -7828552535780929582
+    second: gandhiji-ss_9
+  - first:
+      213: 7027965769888047514
+    second: gandhiji-ss_10
+  - first:
+      213: 3549009888275626484
+    second: gandhiji-ss_11
+  - first:
+      213: -6752602393494926545
+    second: gandhiji-ss_12
+  - first:
+      213: -340993598437827040
+    second: gandhiji-ss_13
+  - first:
+      213: -4108494978119850439
+    second: gandhiji-ss_14
+  - first:
+      213: -4907306307319574219
+    second: gandhiji-ss_15
+  - first:
+      213: 3123061285772342226
+    second: gandhiji-ss_16
+  - first:
+      213: 1854721917816800826
+    second: gandhiji-ss_17
+  - first:
+      213: 193257296744019906
+    second: gandhiji-ss_18
+  - first:
+      213: 516144788878040702
+    second: gandhiji-ss_19
+  - first:
+      213: -3100747482143055621
+    second: gandhiji-ss_20
+  - first:
+      213: -7790603518029623255
+    second: gandhiji-ss_21
+  - first:
+      213: -7751788538091007493
+    second: gandhiji-ss_22
+  - first:
+      213: -4692965641618982959
+    second: gandhiji-ss_23
+  - first:
+      213: -5218037435817969242
+    second: gandhiji-ss_24
+  - first:
+      213: -393148776647769503
+    second: gandhiji-ss_25
+  - first:
+      213: -7520667490110387109
+    second: gandhiji-ss_26
+  - first:
+      213: -1186570995679030971
+    second: gandhiji-ss_27
+  - first:
+      213: -6093761499837434050
+    second: gandhiji-ss_28
+  - first:
+      213: -6131402568174370125
+    second: gandhiji-ss_29
+  - first:
+      213: -8108949128397709855
+    second: gandhiji-ss_30
+  - first:
+      213: -4280861262100409829
+    second: gandhiji-ss_31
+  - first:
+      213: -4631974461289464242
+    second: gandhiji-ss_32
+  - first:
+      213: 3753670129325222448
+    second: gandhiji-ss_33
+  - first:
+      213: -5341843342433441766
+    second: gandhiji-ss_34
+  - first:
+      213: 4288661752834453096
+    second: gandhiji-ss_35
+  - first:
+      213: 4988573472222409431
+    second: gandhiji-ss_36
+  - first:
+      213: 2482995137406966703
+    second: gandhiji-ss_37
+  - first:
+      213: 1120301664222721439
+    second: gandhiji-ss_38
+  - first:
+      213: -9032978742767745997
+    second: gandhiji-ss_39
+  - first:
+      213: 1127286165508752300
+    second: gandhiji-ss_40
+  - first:
+      213: 4757098482988905238
+    second: gandhiji-ss_41
+  - first:
+      213: 7494246281357609306
+    second: gandhiji-ss_42
+  - first:
+      213: -671560530949799813
+    second: gandhiji-ss_43
+  - first:
+      213: -4455976439549145985
+    second: gandhiji-ss_44
+  - first:
+      213: 263894006011144699
+    second: gandhiji-ss_45
+  - first:
+      213: 8630242827004789908
+    second: gandhiji-ss_46
+  - first:
+      213: 1549468239056460938
+    second: gandhiji-ss_47
+  - first:
+      213: -8066069798656334618
+    second: gandhiji-ss_48
+  - first:
+      213: -191977611519044830
+    second: gandhiji-ss_49
+  - first:
+      213: 1590875892703617710
+    second: gandhiji-ss_50
+  - first:
+      213: -75572632124898710
+    second: gandhiji-ss_51
+  - first:
+      213: -5748800996520976519
+    second: gandhiji-ss_52
+  - first:
+      213: 5843977888459963925
+    second: gandhiji-ss_53
+  - first:
+      213: -7530573875796729601
+    second: gandhiji-ss_54
+  - first:
+      213: 8356606767058922420
+    second: gandhiji-ss_55
+  - first:
+      213: 2059593816338588563
+    second: gandhiji-ss_56
+  - first:
+      213: 2095463738445024472
+    second: gandhiji-ss_57
+  - first:
+      213: 5024296500506782017
+    second: gandhiji-ss_58
+  - first:
+      213: -2940559196071170670
+    second: gandhiji-ss_59
+  - first:
+      213: -9138689293900037004
+    second: gandhiji-ss_60
+  - first:
+      213: -4106036265250631496
+    second: gandhiji-ss_61
+  - first:
+      213: -7002794785480871748
+    second: gandhiji-ss_62
+  - first:
+      213: 2165855573399624796
+    second: gandhiji-ss_63
+  - first:
+      213: 5915718441381347470
+    second: gandhiji-ss_64
+  - first:
+      213: 5917314186086296376
+    second: gandhiji-ss_65
+  - first:
+      213: 4231320958196079660
+    second: gandhiji-ss_66
+  - first:
+      213: 1572281520192937058
+    second: gandhiji-ss_67
+  - first:
+      213: -3767026460512775567
+    second: gandhiji-ss_68
+  - first:
+      213: 1854629567861717956
+    second: gandhiji-ss_69
+  - first:
+      213: 150492844951153576
+    second: gandhiji-ss_70
+  - first:
+      213: 6406573204633164905
+    second: gandhiji-ss_71
+  - first:
+      213: -6615481273450650206
+    second: gandhiji-ss_72
+  - first:
+      213: -5893859204827308937
+    second: gandhiji-ss_73
+  - first:
+      213: 1059660307869785193
+    second: gandhiji-ss_74
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gandhiji-ss_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6300
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdb0759cd106d670800000000000000
+      internalID: 8563033788403203534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_1
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 6300
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff6122d874bb3f40800000000000000
+      internalID: 5709355383636717556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_2
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 6300
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663bb95d0b6f00070800000000000000
+      internalID: 8070721771606356838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_3
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 6300
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe80d2f137e411e0800000000000000
+      internalID: -2227901713928384775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_4
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 6300
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29973bf08de135a0800000000000000
+      internalID: -6543187645366298323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5850
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e09e16e6bd89a30800000000000000
+      internalID: 4222365917795389050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_6
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 5850
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a1e9f26082e6c10800000000000000
+      internalID: 2048618887533959739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_7
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 5850
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66e14269eb447720800000000000000
+      internalID: 2842980730525574763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_8
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 5850
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25368971c8c4faae0800000000000000
+      internalID: -1535924783335054510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_9
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 5850
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df4b4732f46b5390800000000000000
+      internalID: -7828552535780929582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5400
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9128c7c1a9588160800000000000000
+      internalID: 7027965769888047514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_11
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 5400
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9740f90bd904130800000000000000
+      internalID: 3549009888275626484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_12
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 5400
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b484266efe942a0800000000000000
+      internalID: -6752602393494926545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_13
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 5400
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e5e6ef02c844bf0800000000000000
+      internalID: -340993598437827040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_14
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 5400
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936a0bbc591bbf6c0800000000000000
+      internalID: -4108494978119850439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4950
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531de2cd9eeb5ebb0800000000000000
+      internalID: -4907306307319574219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_16
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 4950
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d33c3651b7575b20800000000000000
+      internalID: 3123061285772342226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_17
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 4950
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a360a9ce1cb4db910800000000000000
+      internalID: 1854721917816800826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_18
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 4950
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7fdaacc769ea200800000000000000
+      internalID: 193257296744019906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_19
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 4950
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e9eb963f6b92700800000000000000
+      internalID: 516144788878040702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4500
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf02dace79ee7f4d0800000000000000
+      internalID: -3100747482143055621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_21
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 4500
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9209fe1706732e390800000000000000
+      internalID: -7790603518029623255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_22
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 4500
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf11425356d1c6490800000000000000
+      internalID: -7751788538091007493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_23
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 4500
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7ff240d9c3fdeb0800000000000000
+      internalID: -4692965641618982959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_24
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 4500
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a93165399ec597b0800000000000000
+      internalID: -5218037435817969242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4050
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162c70845414b8af0800000000000000
+      internalID: -393148776647769503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_26
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 4050
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c442293c831a790800000000000000
+      internalID: -7520667490110387109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_27
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 4050
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54115c557f3788fe0800000000000000
+      internalID: -1186570995679030971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_28
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 4050
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37fc38b33c9e6ba0800000000000000
+      internalID: -6093761499837434050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_29
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 4050
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b28c0d89d1e8eaa0800000000000000
+      internalID: -6131402568174370125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed14241bb9377f80800000000000000
+      internalID: -8108949128397709855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_31
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 3600
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1256c3fc535794c0800000000000000
+      internalID: -4280861262100409829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_32
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 3600
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ef82ac4cbe7bfb0800000000000000
+      internalID: -4631974461289464242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_33
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 3600
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03aac664817b71430800000000000000
+      internalID: 3753670129325222448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_34
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 3600
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18287848c5fdd5b0800000000000000
+      internalID: -5341843342433441766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3150
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e60835423648b30800000000000000
+      internalID: 4288661752834453096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_36
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 3150
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2f0c37429fa3540800000000000000
+      internalID: 4988573472222409431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_37
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 3150
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab1a280cee557220800000000000000
+      internalID: 2482995137406966703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_38
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 3150
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9536419d6c1c8f00800000000000000
+      internalID: 1120301664222721439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_39
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 3150
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3348ca531b964a280800000000000000
+      internalID: -9032978742767745997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2700
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca38c5f7bcce4af00800000000000000
+      internalID: 1127286165508752300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_41
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2700
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6137a18bddb940240800000000000000
+      internalID: 4757098482988905238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_42
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2700
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59cc936949e00860800000000000000
+      internalID: 7494246281357609306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_43
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 2700
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70809351432ea6f0800000000000000
+      internalID: -671560530949799813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_44
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 2700
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cc92979013922c0800000000000000
+      internalID: -4455976439549145985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2250
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf926a6433a89a300800000000000000
+      internalID: 263894006011144699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_46
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2250
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494cbfc4028c4c770800000000000000
+      internalID: 8630242827004789908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_47
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2250
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cd5bb6721d08510800000000000000
+      internalID: 1549468239056460938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_48
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 2250
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4259501409f0090800000000000000
+      internalID: -8066069798656334618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_49
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 2250
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22354942165f55df0800000000000000
+      internalID: -191977611519044830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2e452123de31610800000000000000
+      internalID: 1590875892703617710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_51
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1800
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62447b671383fef0800000000000000
+      internalID: -75572632124898710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_52
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1800
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f94fdb3f72830b0800000000000000
+      internalID: -5748800996520976519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_53
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1800
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51eb4e44deaf91150800000000000000
+      internalID: 5843977888459963925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_54
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1800
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0ac4a65f60e7790800000000000000
+      internalID: -7530573875796729601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1350
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb2c265491a8f370800000000000000
+      internalID: 8356606767058922420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_56
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1350
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393e37ce9a5259c10800000000000000
+      internalID: 2059593816338588563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_57
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1350
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc4ab9fa25941d10800000000000000
+      internalID: 2095463738445024472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_58
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1350
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149e1fe1c03e9b540800000000000000
+      internalID: 5024296500506782017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_59
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1350
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d6b2dadf80137d0800000000000000
+      internalID: -2940559196071170670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4744c6c818adc2180800000000000000
+      internalID: -9138689293900037004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_61
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 900
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b05dde75cd6407c0800000000000000
+      internalID: -4106036265250631496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_62
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 900
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb07478be3311de90800000000000000
+      internalID: -7002794785480871748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_63
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 900
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cd8473b2aae0e10800000000000000
+      internalID: 2165855573399624796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_64
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 900
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8043c1649ad81250800000000000000
+      internalID: 5915718441381347470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bad06a6e58e1250800000000000000
+      internalID: 5917314186086296376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_66
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 450
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c51f33efba8ba30800000000000000
+      internalID: 4231320958196079660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_67
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 450
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cd20a56bdd1d510800000000000000
+      internalID: 1572281520192937058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_68
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 450
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17293a98465d8bbc0800000000000000
+      internalID: -3767026460512775567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_69
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 450
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb755604c7fcb910800000000000000
+      internalID: 1854629567861717956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab2d84f178a61200800000000000000
+      internalID: 150492844951153576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_71
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c12b9d268b8e850800000000000000
+      internalID: 6406573204633164905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_72
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 0
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5a9b505d61134a0800000000000000
+      internalID: -6615481273450650206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_73
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 0
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c1a1cb74ec43ea0800000000000000
+      internalID: -5893859204827308937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gandhiji-ss_74
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 0
+        width: 337
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cd8298f6ba4be00800000000000000
+      internalID: 1059660307869785193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="VishwaSamvadKendra-Photos-page-017" size="2.000000 1.814975" />
+    <ImageTarget name="VishwaSamvadKendra-Photos-page-016" size="2.000000 1.814975" />
+    <ImageTarget name="VishwaSamvadKendra-Photos-page-015" size="2.000000 1.814975" />
+    <ImageTarget name="VishwaSamvadKendra-Photos-page-014" size="2.000000 1.814975" />
+    <ImageTarget name="VishwaSamvadKendra-Photos-page-009" size="2.000000 1.814975" />
+    <ImageTarget name="VishwaSamvadKendra-Photos-page-006" size="2.000000 1.814975" />
+    <ImageTarget name="VishwaSamvadKendra-Photos-page-005" size="2.000000 1.814975" />
+    <ImageTarget name="VishwaSamvadKendra-Photos-page-002" size="2.000000 1.814975" />
+  </Tracking>
+</QCARConfig>
